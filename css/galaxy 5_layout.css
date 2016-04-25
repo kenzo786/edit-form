@@ -1,0 +1,131 @@
+
+html { background-color: #edf1f5; }
+
+.header
+{
+	top: 0px;
+	margin: 0px;
+	min-width: 360px;
+	height: 42px;
+	background-color: #fff;
+}
+
+#backarrow img { padding-top: 10px; }
+
+#selectnumber { left: 205px; }
+
+.arrow-up { left: 240px; }
+
+.save
+{
+	top: 6px;
+	left: 266px;
+}
+
+.remover
+{
+	top: 7px;
+	left: 310px;
+}
+
+#number { top: 0px; }
+
+.cropit-image-preview
+{
+	width: 360px;
+	margin-top: -48px;
+}
+.previewpic {
+	position:relative; width:350;
+}
+
+body
+{
+	width: 360px;
+	margin: 0px auto;
+	min-height: 720px;
+	background-repeat: no-repeat;
+}
+
+.arrow-left
+{
+	display: none;
+	left: 17%;
+}
+
+.edit
+{
+	margin-top: 0px;
+	left: 82%;
+	top: -1.5px;
+}
+
+input#notebefore[disabled] { top: 0px; left:57px; margin:0px; padding:0px; }
+#notebefore { 
+width:140px;
+}
+
+.triangle
+{
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 50px;
+	width: 20px;
+	
+}
+
+.square
+{
+	left: 10%;
+	top: -1px;
+}
+
+.value1
+{
+	width:8px;
+}
+.takenstat {
+margin-left:285px;	
+}
+.dots {
+top:-4px;	
+}
+
+.addphotoicon {
+	width:360px;
+}
+#changephoto {
+	left:275px;
+}
+#chose2 {
+left:-15px;
+	
+}
+.triangle2 {
+	margin-left:180px;
+}
+.applystat {
+	margin-left:215px;
+}
+.add {
+	left:85%;
+	
+}
+
+@media screen and (max-width: 990px) {
+	footer { padding-left: 20px; }
+}
+
+
+@media
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (   min--moz-device-pixel-ratio: 2),
+	only screen and (     -o-min-device-pixel-ratio: 2/1),
+	only screen and (        min-device-pixel-ratio: 2),
+	only screen and (                min-resolution: 192dpi),
+	only screen and (                min-resolution: 2dppx)
+{
+
+	
+
+}
